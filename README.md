@@ -1,6 +1,7 @@
 # Customer-Churn-Prediction
 
-https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WZdoYPpmiIk1AcPQ1YHWug.png
+![image](https://github.com/user-attachments/assets/7d166c60-e7e3-4246-99ad-0fa32ce67efa)
+
 
 **Introduction**
 
